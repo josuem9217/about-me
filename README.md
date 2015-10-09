@@ -18,5 +18,5 @@ A software engineer student at _HSTAT_. My academic goal is to graduate and go t
 7. Lunch
 8. Yoga
 
--**Other Info**
--Please don't spam my emai
+- **Other Info**
+- Please don't spam my email
