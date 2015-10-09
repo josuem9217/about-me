@@ -1,7 +1,7 @@
 ##About Me
 
 ####Josue Moran  
-**HSTAT**  
+**HSTAT**    
 [_josuem9217@hstat.org_](josuem9217@hstat.org)
 
 ___
@@ -18,5 +18,5 @@ A software engineer student at _HSTAT_. My academic goal is to graduate and go t
 7. Lunch
 8. Yoga
 
-- **Other Info**
+**Other Info**
 - Please don't spam my email
