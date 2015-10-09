@@ -1,4 +1,5 @@
 ##About Me
-===
+
 ####Josue Moran
-josuem9217@hstat.org
+**HSTAT**
+[_josuem9217@hstat.org_](josuem9217@hstat.org)
