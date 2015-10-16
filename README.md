@@ -19,4 +19,5 @@ A software engineer student at _HSTAT_. My academic goal is to graduate and go t
 8. Yoga
 
 **Other Info**
-- Please don't spam my email
+---
+Please don't spam my email
